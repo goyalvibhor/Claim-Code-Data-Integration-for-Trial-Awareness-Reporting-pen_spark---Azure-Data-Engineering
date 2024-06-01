@@ -1,0 +1,2 @@
+# Claim-Code-Data-Integration-for-Trial-Awareness-Reporting-pen_spark---Azure-Data-Engineering
+This project successfully integrated Claim Code data into the Trial Awareness reporting infrastructure. By creating external table references to production tables in three test environments (test1, test2, test3), we enabled the reporting team to leverage crucial claim information for enhanced analysis and decision-making.
